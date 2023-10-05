@@ -1,1 +1,0 @@
-{"Path":"D:\\Google Drive\\Tech\\IaC\\AzCIDR\\Terraform","Version":"2.0","Modules":[{"Key":"subnet_addrs","Source":"registry.terraform.io/hashicorp/subnets/cidr","Version":"1.0.0","Dir":".infracost\\terraform_modules\\6b399aba413858eeccaf3ebfbf5e947e"}]}
